@@ -1,0 +1,7 @@
+dog
+cat
+bird
+lion
+raven
+bull
+worm
